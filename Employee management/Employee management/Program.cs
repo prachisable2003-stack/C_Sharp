@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bankaccount
+namespace Employee_management
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
